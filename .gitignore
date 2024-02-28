@@ -1,0 +1,13 @@
+.vagrant
+.terraform
+terraform.tfstate*
+
+local.env
+crash.log
+
+key-*.json
+
+node_modules/
+
+circleci
+circleci.pub
